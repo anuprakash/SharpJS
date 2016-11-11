@@ -3,7 +3,9 @@
 
 A set of frameworks for writing HTML5/JavaScript applications with C#.
 
-[![Build Status](https://travis-ci.org/exaphaser/SharpJS.svg?branch=master)](https://travis-ci.org/exaphaser/SharpJS)
+## News
+
+Major changes for Generation 2 (`v2.0`) are underway! [Read about the plans](https://github.com/IridiumIon/SharpJS/wiki/Generation-2---Plans)!
 
 ## **[Quick Start](https://exaphaser.github.io/SharpJS/#quickstart)** (recommended)
 
